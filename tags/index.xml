@@ -6,6 +6,25 @@
     <description>Recent content in Tags on BookeenGao&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>BookeenGao</copyright><atom:link href="https://lsygod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>BookeenGao</copyright>
+    <lastBuildDate>Tue, 22 Nov 2022 22:30:23 +0000</lastBuildDate><atom:link href="https://lsygod.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>https://lsygod.github.io/tags/go/</link>
+      <pubDate>Tue, 22 Nov 2022 22:30:23 +0000</pubDate>
+      
+      <guid>https://lsygod.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>环境配置</title>
+      <link>https://lsygod.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 22 Nov 2022 22:30:23 +0000</pubDate>
+      
+      <guid>https://lsygod.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
