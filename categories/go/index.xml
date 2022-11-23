@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Go on BookeenGao&#39;s Blog</title>
+    <title>Go on JOJO&#39;s Blog</title>
     <link>https://lsygod.github.io/categories/go/</link>
-    <description>Recent content in Go on BookeenGao&#39;s Blog</description>
+    <description>Recent content in Go on JOJO&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>BookeenGao</copyright>
     <lastBuildDate>Tue, 22 Nov 2022 22:30:23 +0000</lastBuildDate><atom:link href="https://lsygod.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>环境配置</title>
@@ -14,7 +13,7 @@
       <pubDate>Tue, 22 Nov 2022 22:30:23 +0000</pubDate>
       
       <guid>https://lsygod.github.io/post/go-learn/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</guid>
-      <description>简介 go环境安装 安装oh-my-zsh sudo apt-get install git wget curl sh -c &amp;#34;$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)&amp;#34; git clone git://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting sed -i &amp;#39;s!plugins=(git)!plugins=(git sudo zsh-autosuggestions zsh-syntax-highlighting)!g&amp;#39; ~/.zshrc source ~/.zshrc golang环境配置 # 下载安装包 wget https://studygolang.com/dl/golang/go1.18.linux-amd64.tar.gz tar -C /usr/local -xzf</description>
+      <description>简介 go环境安装 安装oh-my-zsh 1 2 3 4 5 6 7 8 9 10 sudo apt-get install git wget curl sh -c &amp;#34;$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)&amp;#34; git clone git://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting sed -i &amp;#39;s!plugins=(git)!plugins=(git sudo zsh-autosuggestions zsh-syntax-highlighting)!g&amp;#39; ~/.zshrc source ~/.zshrc golang环境配置 1 2</description>
     </item>
     
   </channel>
